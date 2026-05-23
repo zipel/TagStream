@@ -11,4 +11,5 @@ dist/
 build/
 
 examples/sample_video.mp4
+examples/tags.csv
 tags.csv
