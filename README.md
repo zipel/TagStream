@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Usage:
 ```bash
-python cli.py --input /path/to/video.mp4 --sample-rate 0.5 --top 50 --out tags.csv
+python cli.py --input examples/sample_video.mp4 --sample-rate 0.5 --top 50 --out examples/tags.csv
 ```
 
 Requirements:
