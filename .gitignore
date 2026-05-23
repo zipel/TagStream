@@ -10,3 +10,5 @@ tagstream_frames_*/
 dist/
 build/
 
+examples/sample_video.mp4
+tags.csv
