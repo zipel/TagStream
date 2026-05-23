@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+*.pkl
+*.sqlite3
+.vscode/
+tagstream_frames_*/
+*.egg-info/
+dist/
+build/
+
